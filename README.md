@@ -1,8 +1,8 @@
-# 📊 COMP 4304 – Assignment 6: Births Heatmap Analysis
+# 📊 Births Heatmap Analysis
 
 ## Overview
 
-This Jupyter Notebook addresses **Assignment 6** for COMP 4304, focused on visualizing birth data in England and Wales using a **heat map**. The dataset spans from **1995 to 2023**, and the goal is to reproduce a stylized heat map that highlights birth trends across the calendar year.
+This Jupyter Notebook focuses on visualizing birth data in England and Wales using a **heat map**. The dataset spans from **1995 to 2023**, and the goal is to reproduce a stylized heat map that highlights birth trends across the calendar year.
 
 ![Viz6](https://github.com/user-attachments/assets/f652ce12-6649-49a2-9447-94ff71cbe015)
 
@@ -12,7 +12,7 @@ The assignment uses **`pandas`**, **`matplotlib`**, and **`seaborn`** to manipul
 
 ## 🔍 Objective
 
-Recreate a heat map of **average daily births** in England and Wales using:
+Created a heat map of **average daily births** in England and Wales using:
 
 - **Seaborn's `heatmap()`** function  
 - **ColorBrewer's `YlOrRd`** colormap with **5 discrete bins**  
@@ -28,7 +28,6 @@ Recreate a heat map of **average daily births** in England and Wales using:
 
 - `Assignment 6.ipynb` – Jupyter notebook containing all code and output  
 - `daily-births.csv` – Dataset used for analysis and visualization  
-- `assignment6.pdf` – Assignment instructions
 
 ---
 
